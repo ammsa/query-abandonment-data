@@ -5,7 +5,7 @@ Data is available to other researchers upon request. Please contact m2abuals@uwa
 
 ### Format
 
-The data is tab-seperated and includes the following:
+The data is tab-separated and includes the following:
 
  - **User**: the user id
  - **User type**: either *economic* or *exhaustive*. See paper for more details
@@ -19,7 +19,6 @@ The data is tab-seperated and includes the following:
 -	**isAnswerFromSnippet**: Boolean indicating whether the user announced their answer after reading a snippet summary
 -	**click_rank**: The rank of click, otherwise -1
 -	**timelength**: Time to make action
--	**hit_[num]_total**: Total time spent fixating on an item
 -	**total_fixations**: Total fixations for the task
 -	**mean_fixation_length**: The mean fixation length
 -	**query**: the submitted query
@@ -28,12 +27,6 @@ The data is tab-seperated and includes the following:
 	-	Start(num): indicates where the correct answer is
 	-	-> \[rank\](fixation duration):
 	-	-> action
-
-### Query types
-The data is tab-seperated and includes the following:
-
-- **query**: the submitted query
-- **question_type**: A tag indicating the question being asked.
-- **assessor1**: Assessor's one judgment (weak/strong). See paper for more details
-- **assessor2**: Assessor's two judgment (weak/strong). See paper for more details
+-   *assessor1**: Assessor's one judgment on the query (weak/strong). See paper for more details
+-   ***assessor2**: Assessor's two judgment on the query (weak/strong). See paper for more details
 
