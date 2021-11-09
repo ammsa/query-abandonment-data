@@ -30,3 +30,26 @@ The data is tab-separated and includes the following:
 -   *assessor1**: Assessor's one judgment on the query (weak/strong). See paper for more details
 -   ***assessor2**: Assessor's two judgment on the query (weak/strong). See paper for more details
 
+
+## Citation
+
+If you use the data in any way, please cite:
+
+```
+@inproceedings{10.1145/3357384.3358041,
+author = {Abualsaud, Mustafa and Smucker, Mark D.},
+title = {Patterns of Search Result Examination: Query to First Action},
+year = {2019},
+isbn = {9781450369763},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3357384.3358041},
+doi = {10.1145/3357384.3358041},
+booktitle = {Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+pages = {1833–1842},
+numpages = {10},
+keywords = {query abandonment, requery behavior, user study, user behavior},
+location = {Beijing, China},
+series = {CIKM '19}
+}
+```
