@@ -28,3 +28,15 @@ The data is comma-seperated and includes the following:
 -	**next_query_id**: the id of the next query
 
 
+## Citation
+
+If you use the data in any way, please cite:
+
+```
+@phdthesis{Abualsaud, Mustafa2021,
+author={{Abualsaud, Mustafa}},
+title={Users, Queries, and Bad Abandonment in Web Search},
+year={2021},
+publisher="UWSpace"
+}
+```
