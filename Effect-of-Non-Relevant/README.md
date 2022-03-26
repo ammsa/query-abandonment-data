@@ -33,10 +33,19 @@ The data is comma-seperated and includes the following:
 If you use the data in any way, please cite:
 
 ```
-@phdthesis{Abualsaud, Mustafa2021,
-author={{Abualsaud, Mustafa}},
-title={Users, Queries, and Bad Abandonment in Web Search},
-year={2021},
-publisher="UWSpace"
+@inproceedings{10.1145/3498366.3505770,
+author = {Abualsaud, Mustafa and Smucker, Mark},
+title = {The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior},
+year = {2022},
+isbn = {9781450391863},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3498366.3505770},
+doi = {10.1145/3498366.3505770},
+pages = {1–11},
+numpages = {11},
+keywords = {user behavior, user study, Non-relevant documents},
+location = {Regensburg, Germany},
+series = {CHIIR '22}
 }
 ```
